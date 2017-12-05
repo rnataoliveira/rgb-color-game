@@ -24,3 +24,7 @@ h1 {
     padding-bottom: 30%;   
     width: 30%;
 }
+
+.selected {
+    background: blue;
+}

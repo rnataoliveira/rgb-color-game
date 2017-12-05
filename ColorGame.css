@@ -2,9 +2,12 @@ body {
     background-color: #232323;
 }
 
-
 h1 {
-    
+    color: white;
+}
+
+span {
+    color: white;
 }
 
 #container {
